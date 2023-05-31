@@ -1,0 +1,8 @@
+name: AdminLog
+version: 1.0.0
+main: me.diocletianus.adminlog.AdminLog
+author: Diocletianus
+commands:
+  adminlog:
+    description: Admin log configini yeniden yükler.
+    permission: adminlog.reload

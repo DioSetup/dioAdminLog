@@ -1,0 +1,5 @@
+#Logları kaydedilecek adminlerin adını alta yazınız!
+logged_players:
+  - admin1
+  - admin2
+  - admin3
